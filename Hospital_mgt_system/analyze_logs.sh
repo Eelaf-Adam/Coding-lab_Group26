@@ -2,7 +2,7 @@
 
 #Interactive Archival Script
 
-#Creation of reports directory and fil=e
+#Creation of reports directory and file
 mkdir -p reports
 touch reports/analysis_report.txt
 
@@ -10,7 +10,7 @@ touch reports/analysis_report.txt
 choices=("Heart_rate" "temperature" "water_usage")
 time_stamp=$(date '+%Y-%m-%d %H:%M:%S')
 log_file=("heart_rate.log" "temperature.log" "water_usage.log")
-time_
+
 
 #creating numbered menu
 echo "select log file to analyze: "
@@ -19,7 +19,7 @@ echo "2) Temperature (temperature.log)"
 echo "3) Water Usage (water_usage.log)"
 read -p "Enter choice (1-3): " user_input
 
-case $user_input in 
+case $user_input in
 	1) log_files="heart_rate.log"
 	;;
         2) log_files="temperature_rate.log"
@@ -27,7 +27,7 @@ case $user_input in
         3) log_files="water_usage.log"
 	;;
         *) echo "Invalid selection. "
-	exit 
+	exit
 	;;
 esac
 
