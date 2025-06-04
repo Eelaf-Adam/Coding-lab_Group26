@@ -19,7 +19,7 @@ This project is completely devolped.Users can use it to automate...
 # 💡 Usage
 
 # ⚙️ Built with
+## 1. Bash     2. Python 
 
-# 👩🏽‍💻👨🏽‍💻 Contributors
-![image](https://github.com/user-attachments/assets/98c1780d-aa10-421e-9f45-bc9c027da2a1)
+# 🫱🏽‍🫲🏽 Contributors
 
