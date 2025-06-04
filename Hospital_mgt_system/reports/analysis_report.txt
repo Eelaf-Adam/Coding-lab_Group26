@@ -1,0 +1,54 @@
+REPORT FILE OVERVIEW
+
+TIME REGISTER
+First_input_access: ==> water_usage.log <==
+Last_input_access: ==> water_usage.log <==
+Current_time: 2025-35-03 15:35:56
+
+Number of devices: 
+
+REPORT FILE OVERVIEW
+
+TIME REGISTER
+First_input_access: ==> water_usage.log <==
+Last_input_access: ==> water_usage.log <==
+Current_time: 2025-37-03 15:37:03
+
+Number of devices: 
+
+REPORT FILE OVERVIEW
+
+TIME REGISTER
+First_input_access: 
+Last_input_access: 
+Current_time: 2025-54-04 03:54:53
+
+Number of devices: 
+
+REPORT FILE OVERVIEW
+
+TIME REGISTER
+First_input_access: 
+Last_input_access: 
+Current_time: 2025-06-04 04:17:50
+
+Number of devices: 
+
+REPORT FILE OVERVIEW
+
+TIME REGISTER
+First_input_access: 
+Last_input_access: 
+Current_time: 2025-06-04 05:01:03
+
+Number of devices: 
+
+REPORT FILE OVERVIEW
+
+TIME REGISTER
+First_input_access: 
+Last_input_access: 
+Current_time: 2025-06-04 05:14:36
+
+Number of devices: 
+
