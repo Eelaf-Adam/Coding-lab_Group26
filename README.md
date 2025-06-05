@@ -14,7 +14,13 @@ By developing this project the following objectives will be acheived:
 3.Generates analytical reports with device statistics and temporal patterns
 
 ## 🚀 Project Status
-This project is completely devolped.Users can use it to automate...
+This project is completely devolped ans contins the below featuers that users can interact with:
+
+i. Archiving Logs
+
+ii. Analysis Logs
+
+iii.   Reporting 
 
 
 ##  ✨Demo
@@ -33,9 +39,12 @@ This project is developed with the collaborative efforts of these sfotware engin
 
 - 👩🏽‍💻 [**Eelaf Adam**](https://github.com/Eelaf-Adam)
 - 👨🏽‍💻 [**Leon Nsamba**](https://github.com/L-nsamba)
+  The best debugger
 - 👩🏽‍💻 [**Orla Ishimwe**](https://github.com/Lennie02)
+  The chaos memeber 
 - 👨🏽‍💻 [**Chedra Asiegbunam**](https://github.com/AgentChidex)
+  The nonchalant 
 - 👩🏽‍💻 [**Pascline Mukamugisha**](https://github.com/Pascali-ne)
 
-  ## 📝 License
+## 📝 License
   Copyright ©  [**Eelaf Adam**](https://github.com/Eelaf-Adam)
