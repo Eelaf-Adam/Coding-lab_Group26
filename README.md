@@ -36,3 +36,6 @@ This project is developed with the collaborative efforts of these sfotware engin
 - 👩🏽‍💻 [**Orla Ishimwe**](https://github.com/Lennie02)
 - 👨🏽‍💻 [**Chedra Asiegbunam**](https://github.com/AgentChidex)
 - 👩🏽‍💻 [**Pascline Mukamugisha**](https://github.com/Pascali-ne)
+
+  ## 📝 License
+  Copyright ©  [**Eelaf Adam**](https://github.com/Eelaf-Adam)
