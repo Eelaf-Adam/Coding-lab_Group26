@@ -4,7 +4,7 @@
 ### A. About the Project:
 This project aims to provide an automated log management system, designed to enhance patient care and the operations in hospitals. It supports healthcare environments with an effecient process flow.
 
-### B. Prject objective:
+### B. Project objective:
 By developing this project the following objectives will be acheived:
 
 1.Collects real-time patient health metrics and resource usage data
