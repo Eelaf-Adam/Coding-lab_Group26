@@ -9,7 +9,6 @@ touch reports/analysis_report.txt
 #Assigning  variables
 choices=("Heart_rate" "temperature" "water_usage")
 time_stamp=$(date '+%Y-%m-%d %H:%M:%S')
-log_file=("heart_rate.log" "temperature.log" "water_usage.log")
 
 #creating numbered menu
 echo "select log file to analyze: "
@@ -19,23 +18,24 @@ echo "3) Water Usage (water_usage.log)"
 read -p "Enter choice (1-3): " user_input
 
 case $user_input in
-	1) log_files="active_logs/heart_rate.log"
+	1) log_files="active_logs/heart_rate_log.log"
 	;;
-        2) log_files="active_logs/temperature_rate.log"
+        2) log_files="active_logs/temperature_log.log"
 	;;
-        3) log_files="active_logs/water_usage.log"
+        3) log_files="active_logs/water_usage_log.log"
 	;;
         *) echo "Invalid selection. "
 	exit
 	;;
 esac
 
+echo "Selected file is: $log_files"
 #Setting variables for respective time stamps
 
-first_time_stamp_entry=$(head -n 1 "$log_files" awk '{print $1 $2}')
+first_time_stamp_entry=$(head -n 1 "$log_files" | awk '{print $1 " " $2}')
 #The command will extract the first ten lines from the head of the log file selected and filter the first two sections, which include date and time
 
-last_time_stamp_entry=$(tail -n 1 "$log_files" awk '{print $1 $2}')
+last_time_stamp_entry=$(tail -n 1 "$log_files" | awk '{print $1 " " $2}')
 #The command will extract the last  line from the tail of the log file selected and filter the first two sections, which include date and time
 
 
@@ -57,4 +57,4 @@ echo "" >> reports/analysis_report.txt
 #Shows the number of devices used
 echo "Number of devices: $device_counter" >> reports/analysis_report.txt
 echo "" >> reports/analysis_report.txt
-echo "Report overview of '$log_file' completed. "
+echo "Report overview of '$log_files' completed. "
