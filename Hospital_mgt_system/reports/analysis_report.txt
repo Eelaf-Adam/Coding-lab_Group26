@@ -1,0 +1,10 @@
+REPORT OVERVIEW
+
+TIME REGISTER
+First_input_access: 2025-05-30 03:37:29
+Last_input_access: 2025-06-03 03:22:03
+Current_time: 2025-06-05 04:09:52
+
+Number of devices:    6300 HeartRate_Monitor_B
+   6300 HeartRate_Monitor_A
+
