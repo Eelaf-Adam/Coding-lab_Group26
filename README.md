@@ -29,7 +29,7 @@ This project is completely devolped.Users can use it to automate...
 
 ## 🫱🏽‍🫲🏽 Contributors
 
-This project is developed by the efforts of the sfotware engineering students at the african leadership university. 
+This project is developed with the collaborative efforts of these sfotware engineering students at the african leadership university. 
 
 - 👩🏽‍💻 [**Eelaf Adam**](https://github.com/Eelaf-Adam)
 - 👨🏽‍💻 [**Leon Nsamba**](https://github.com/L-nsamba)
