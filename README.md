@@ -1,6 +1,11 @@
-# 👋🏽 Welcome! To The Group Coding Project
-### Hospital Data and Monitoring System
-By developing this project we aim to create an automated log management system that does the fowlling:
+<h1 align="center">👋🏽 Welcome! To The Group Coding Project</h1>
+
+## 🏥💡 Automated Log Management System for Healthcare Monitoring 
+### A. About the Project:
+This project aims to provide an automated log management system, designed to enhance patient care and the operations in hospitals. It supports healthcare environments with an effecient process flow.
+
+### B. Prject objective:
+By developing this project the following objectives will be acheived:
 
 1.Collects real-time patient health metrics and resource usage data
 
@@ -8,18 +13,26 @@ By developing this project we aim to create an automated log management system t
 
 3.Generates analytical reports with device statistics and temporal patterns
 
-#  ✨Demo
-
-
-
-
-# 🚀 Project Status
+## 🚀 Project Status
 This project is completely devolped.Users can use it to automate...
 
-# 💡 Usage
 
-# ⚙️ Built with
-## 1. Bash     2. Python 
+##  ✨Demo
 
-# 🫱🏽‍🫲🏽 Contributors
 
+## 🛠️ Usage and Installation
+
+## ⚙️ Built with
+### 1.Bash    
+
+### 2.Python 
+
+## 🫱🏽‍🫲🏽 Contributors
+
+This project is developed by the efforts of the sfotware engineering students at the african leadership university. 
+
+- 👩🏽‍💻 [**Eelaf Adam**](https://github.com/Eelaf-Adam)
+- 👨🏽‍💻 [**Leon Nsamba**](https://github.com/L-nsamba)
+- 👩🏽‍💻 [**Orla Ishimwe**](https://github.com/Lennie02)
+- 👨🏽‍💻 [**Chedra Asiegbunam**](https://github.com/AgentChidex)
+- 👩🏽‍💻 [**Pascline Mukamugisha**](https://github.com/Pascali-ne)
