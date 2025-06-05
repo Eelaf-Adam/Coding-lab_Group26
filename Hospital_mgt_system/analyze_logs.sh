@@ -19,27 +19,16 @@ echo "3) Water Usage (water_usage.log)"
 read -p "Enter choice (1-3): " user_input
 
 case $user_input in
-	1) log_files="heart_rate.log"
+	1) log_files="active_logs/heart_rate.log"
 	;;
-        2) log_files="temperature_rate.log"
+        2) log_files="active_logs/temperature_rate.log"
 	;;
-        3) log_files="water_usage.log"
+        3) log_files="active_logs/water_usage.log"
 	;;
         *) echo "Invalid selection. "
 	exit
 	;;
 esac
-
-#Error handling in occurance of entry of invalid choice
-if[[$user_input != "1" && $user_input != "2" && $user_input !="3"]];then
-       echo "Invalid choice, please try again. "
-       exit 1
-fi
-#Error handling if the log file called upon does not exist
-if[[!-f "$log_files" ]];then
-       echo "File does not exist, please try again. "
-       exit 1
-fi
 
 #Setting variables for respective time stamps
 
@@ -57,7 +46,7 @@ device_counter=$(awk '{print $3}' "$log_files" | sort | uniq -c | sort -nr)
 
 
 #Report file outline
-echo "REPORT FILE OVERVIEW" >> reports/analysis_report.txt
+echo "REPORT OVERVIEW" >> reports/analysis_report.txt
 echo "" >> reports/analysis_report.txt
 #Shows the first time stamp, last time stamp, and the current time
 echo "TIME REGISTER" >> reports/analysis_report.txt
