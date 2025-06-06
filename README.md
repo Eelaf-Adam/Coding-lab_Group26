@@ -52,10 +52,17 @@ chmod +x analyze_logs.sh
 
 ![image](https://github.com/user-attachments/assets/66ec66db-c464-44e6-b4d8-64ff3b71bda8)
 
+5. Start the python simulators files
+```sh
+python3 heart_rate_monitor.py start
+python3 temperature_recorder.p start
+python3 water_consumption.py start
+```
 <br></br>
 
 ## ✨ Demo & ▶️ Usage 
 
+### Click the video below, which demonstrates how to use the system through a demo.
 <a href="https://youtu.be/gZGYmsLIbWI">
    <img src="https://img.youtube.com/vi/gZGYmsLIbWI/maxresdefault.jpg"
         alt="Hospital Managemnet Demo"
