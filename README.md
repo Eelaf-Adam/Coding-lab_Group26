@@ -2,7 +2,7 @@
 
 ## 🏥💡 Automated Log Management System for Healthcare Monitoring 
 ### A. About the project:
-This project aims to provide an automated log management system, designed to enhance patient care and the operations in hospitals. It supports healthcare environments with an effecient process flow.
+This project aims to provide an automated log management system, designed to enhance patient care and the operations in hospitals. It supports healthcare environments with an efficient process flow.
 
 ### B. Project objective:
 By developing this project the following objectives will be acheived:
