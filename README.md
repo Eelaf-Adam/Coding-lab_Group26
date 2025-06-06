@@ -15,7 +15,7 @@ By developing this project the following objectives will be acheived:
 
 <br></br>
 ## 🚀 Project Status
-This project is fully developed and contains the following features that users can interact with:
+This project was fully developed with Shell and Python and contains the following features that users can interact with:
 
 i. Interactive Archive Script.
 
