@@ -7,11 +7,11 @@ This project aims to provide an automated log management system, designed to enh
 ### B. Project objective:
 By developing this project the following objectives will be acheived:
 
-1. Collects real-time patient health metrics and resource usage data
+1. Collecting real-time patient health metrics and resource usage data
 
-2. Provides controlled log archiving with user selection
+2. Providing controlled log archiving with user selection.
 
-3. Generates analytical reports with device statistics and temporal patterns
+3. Generating analytical reports with device statistics and temporal patterns.
 
 <br></br>
 ## 🚀 Project Status
